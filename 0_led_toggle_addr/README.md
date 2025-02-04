@@ -17,5 +17,6 @@ Second:
 
 
 Third:
+-
     LED usage:
     ![Alt text](screenshot/LED_content.png)
