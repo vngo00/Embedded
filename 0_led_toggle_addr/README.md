@@ -15,3 +15,6 @@ Second:
     Use User Mannual to locate content of LED
     ![Alt text](screenshot/LED%20page%20number.png)
     ![Alt text](screenshot/LED_content.png)
+
+User LED:
+    PA5(pin 21) or PB13(pin 34)
