@@ -13,4 +13,4 @@ First:
 
 Second:
     Use User Mannual to locate content of LED
-    ![Alt Text]("screenshot/LED page number.png")
+    ![Alt text]("screenshot/LED page number.png")
