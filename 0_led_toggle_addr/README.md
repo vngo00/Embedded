@@ -14,3 +14,8 @@ First:
 Second:
     Use User Mannual to locate content of LED
     ![Alt text](screenshot/LED%20page%20number.png)
+
+
+Third:
+    LED usage:
+    ![Alt text](screenshot/LED_content.png)
