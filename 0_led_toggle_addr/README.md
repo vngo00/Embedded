@@ -13,4 +13,4 @@ First:
 
 Second:
     Use User Mannual to locate content of LED
-    ![Example Image](screenshot/"LED page number.png"
+    ![Example Image]("screenshot/LED page number.png")
